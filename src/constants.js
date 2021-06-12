@@ -1,0 +1,5 @@
+export const SAT_API_KEY = "ETZM72-LWVJYV-58S84S-4QEU";
+
+export const STARLINK_CATEGORY = "52";
+
+export const NEARBY_SATELLITE = "rest/v1/satellite/above";
